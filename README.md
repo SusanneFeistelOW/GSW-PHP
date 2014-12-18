@@ -3,7 +3,7 @@ GSW-PHP
 
 PHP implementation of the Thermodynamic Equation Of Seawater - 2010 (TEOS-10)
 
-
+<pre>
 TEOS-10 v3.03 GSW Oceanographic Toolbox in PHP
 
 This is a translation of the C code into PHP (version 5.3.8).
@@ -117,3 +117,4 @@ Germany
 From Matlab, Fortran:
 Bernard Saulmé 17/09/2013
 Contact: b92@wanadoo.fr
+</pre>
